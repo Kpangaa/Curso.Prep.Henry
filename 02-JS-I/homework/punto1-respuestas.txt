@@ -1,0 +1,5 @@
+1) Variable: Son como un contenedor donde se pueden almacenar cosas, las cuales mas adelantes se las puede usar para formar nuevas cosas. Por ejemplo pueden contener un nombre de una persona o un numero. Las cuales se pueden modificar mas adelante.
+2) String: Es una frase, que puede estar formada con letras o tambien con simbolos.
+3) Funciones: Es una lista de ordenes, que tienen como objetivo devolver un resultado. Lo argumentos serian como el el ingrediente que necesita la funcion para poder lograr hacer su tarea, y el return es el encargado de devolver el resultado.
+4) Declaraciones if: If seria un condicional que nos permite saber si algo se cumple o no. Para poder hacer alguna cosa o no.
+5) Variables Booleanas: Son los que nos determinan si podes pasar hacer una tarea o no, funcionan como el grifo del agua, cuando lo cierras no deja pasar el agua, el cual seria el valor false, pero si abres el grifo el agua pasa, seria el valor true.
