@@ -1,0 +1,2 @@
+For : Es una funcion que te ayuda a repetir una determinada tareas una N cantidad de veces.
+&& , || y ! : Son operaciones logicas, que nos ayudan a obtener un valor verdadero o falso.
