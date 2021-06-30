@@ -1,0 +1,2 @@
+prototype: es una propiedad que tienen los objetos, cuando por ejemplo una objeto no encuentra una propiedad, la buscata en prototype.
+constructor: Es lo que nos permite poder crear objetos de un determinado tipo.

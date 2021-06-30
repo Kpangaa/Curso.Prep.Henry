@@ -1,0 +1,1 @@
+array: Es como una caja donde se guardar varios elementos que sean del mismo tipo.

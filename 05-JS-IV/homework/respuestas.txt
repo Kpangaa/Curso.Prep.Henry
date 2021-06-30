@@ -1,0 +1,5 @@
+Objetos: Son un conjuntos de propiedades y acciones.
+Propiedades: Son los atributos que pueden tener los Objetos. Serian como los adjetivos que se le puede dar a un objeto. Pr ejemplo tamaño, color, nacionalidad, precio.
+Metodos: Son las acciones que puede realizar un metodo. Como por ejemplo una persona puede correr, tiene la funcion para correr.
+Bucle for.. in : Es una forma de poder recorrer los objetos. (for "nombreReferenciaObjeto" in "nombreObjeto")
+Notacion punto vs notacion brackets: La notacion punto llego para ser mas legible la forma en que se acceden a los valores de los objetos.
