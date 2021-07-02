@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(103, 175, 218);
+    color: black;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    color: #2c7dc9;
+    font-size: 200%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.foto {
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    color: rgb(150, 129, 120);
+    font-size: 150%;
+    text-transform: capitalize;
+}
+
+h3 {
+    color: rgb(150, 129, 120);
+    font-size: 130%;
+}
+
+p {
+    line-height: 150%;
+}
+
+address {
+    background-color: white;
+    font-style: normal;
+    text-align: right;
+}
+
+em {
+    color: rgb(150, 129, 120);
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+strong {
+    color: rgb(150, 129, 120);
+    font-style: normal;
+    font-weight: normal;
+}

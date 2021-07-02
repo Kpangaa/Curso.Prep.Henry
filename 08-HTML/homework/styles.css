@@ -10,8 +10,29 @@ img{
     background-color: yellow;
     padding: 50px;
     border: 2px dashed violet;
+    margin:0px auto;
 }
+
 #spanId{
     font-size: 18px;
     margin: 50px;
+}
+
+.divClass {
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.name {
+    color: rgb(56, 72, 212);
+}
+
+.imagen, .imagen2 {
+    width: 400px;
+
+}
+
+h4 {
+font-size: 20px;
 }
